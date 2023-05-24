@@ -4,10 +4,7 @@
 ###
 <h3> Here is My Skills Summary </h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibhasanbadhon&locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=blueberry&hide_border=true&custom_title=My skills Overview" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sakibhasanbadhon&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=0" height="155" alt="streak graph"  />
-</div>
+
 
 ###
 
@@ -26,7 +23,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sakibhasanbadhon/sakibhasanbadhon/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -39,8 +35,6 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fhacker&psig=AOvVaw266B_V0esBIu8wVggVziOV&ust=1684996048193000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLi7js2pjf8CFQAAAAAdAAAAABAI"  />
-</div>
+
 
 ###
