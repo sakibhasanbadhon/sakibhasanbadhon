@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋 ! My Self SAKIB HASAN BADHON </h2>
 
 ###
-<h3> Here is My Skills Summary </h3>
+<h3> Here Is My Skills Summary </h3>
 
  
 
